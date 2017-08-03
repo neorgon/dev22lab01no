@@ -1,0 +1,27 @@
+{
+  "name": "rbac.no",
+  "version": "1.0.0",
+  "description": "DevOps Test",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://nestor.otondo@172.20.0.30/gitlab/nestor.otondo/DevInt22-rbac.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Mongoose",
+    "RBAC"
+  ],
+  "author": "Nestor Otondo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.5"
+  }
+}
